@@ -9,6 +9,7 @@ same as described/demonstrated"
 I decided to go above and beyond the minimum requirements and created this game with a basic GUI, along with Music and Sound Effects
 
 GAME DESCRIPTION:
+
 This is a text based game where you will create a character who is one of 5 classes, those classes being:
   
   **"Knight"
