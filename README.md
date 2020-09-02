@@ -1,6 +1,6 @@
 # JavaQuest_Programming2FinalProject
 This was the final project of my Computer Programming 2 course at Northwest Missouri State university
- 
+
 The basic premise of the project goes as follows:
  "Your task will be to write a very simple role-playing game called JavaQuest! The implementation of this
 game will mostly be up to you, as long as the minimum requirements are met and the gameplay is the
@@ -10,21 +10,29 @@ I decided to go above and beyond the minimum requirements and created this game 
 
 GAME DESCRIPTION:
 This is a text based game where you will create a character who is one of 5 classes, those classes being:
-  "Knight"
+  
+  **"Knight"
   "Healer"
   "Thief"
   "Wizard"
-  "Bard"
+  "Bard"**
+  
+  
 Then once your character has been created you have 5 options:
-  "Move North"
+ 
+ **"Move North"
   "Move South"
   "Move West"
   "Move East"
-  "Curl up in a ball"
+  "Curl up in a ball"**
+  
+  
 From there the game will make a check to see what happens next. Occasionally, you can enter into Combat. In combat, you also have 5 options:
-  "Attack" (Damage varies between classes)
+ 
+ **"Attack" (Damage varies between classes)
   "Special Move" (Move varies between classes)
   "Finishing Move" (Move varies between classes)
   "Use Healing Item"
-  "Run"
+  "Run"**
+  
 All of these are repeated until the user decides to quit.
