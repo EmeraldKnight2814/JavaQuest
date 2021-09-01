@@ -1,6 +1,4 @@
-# JavaQuest_Programming2FinalProject
-This was the final project of my Computer Programming 2 course at Northwest Missouri State university
-
+# JavaQuest
 The basic premise of the project goes as follows:
  "Your task will be to write a very simple role-playing game called JavaQuest! The implementation of this
 game will mostly be up to you, as long as the minimum requirements are met and the gameplay is the
